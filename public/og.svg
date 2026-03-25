@@ -1,0 +1,21 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#08111F"/>
+  <circle cx="174" cy="121" r="194" fill="#0F62FE" fill-opacity="0.18"/>
+  <circle cx="1046" cy="525" r="214" fill="#F97316" fill-opacity="0.18"/>
+  <rect x="70" y="70" width="1060" height="490" rx="42" fill="white" fill-opacity="0.96"/>
+  <rect x="116" y="128" width="462" height="52" rx="26" fill="#E8F0FF"/>
+  <rect x="116" y="204" width="704" height="108" rx="28" fill="url(#paint0_linear_1_2)"/>
+  <rect x="116" y="346" width="246" height="66" rx="24" fill="#FFF4E8"/>
+  <rect x="384" y="346" width="246" height="66" rx="24" fill="#EDF4FF"/>
+  <rect x="652" y="346" width="246" height="66" rx="24" fill="#EAF9F0"/>
+  <rect x="912" y="152" width="140" height="140" rx="36" fill="#08111F"/>
+  <path d="M954 225L989 260L1022 209" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="116" y="462" fill="#08111F" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">BaseFlow</text>
+  <text x="116" y="526" fill="#4B5563" font-family="Arial, Helvetica, sans-serif" font-size="34">Onchain task notes and status flow on Base</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="116" y1="204" x2="820" y2="312" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F62FE"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+  </defs>
+</svg>
