@@ -76,3 +76,10 @@ Check the project manifest or script configuration for available commands.
 For JavaScript or TypeScript projects, commands are often listed under the `scripts` section of `package.json`.
 
 Common examples may include:
+
+```bash
+npm run dev
+```
+
+```bash
+npm run build
