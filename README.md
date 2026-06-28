@@ -111,3 +111,9 @@ As the project evolves, consider adding the following details:
 - Build and test instructions.
 - Configuration details.
 - Deployment process.
+- Troubleshooting notes.
+- Contribution guidelines.
+
+## Troubleshooting
+
+If setup fails, first verify that the correct package manager and runtime are installed.
