@@ -97,3 +97,10 @@ Run only the commands that are actually defined in this project.
 - Update this README when setup steps, scripts, or project behavior become clearer.
 - Document any required environment variables in a dedicated section before they are needed.
 - Avoid committing local build output, dependency folders, or machine-specific files.
+- Use consistent formatting for code, configuration, and documentation changes.
+
+## Suggested Project Documentation
+
+As the project evolves, consider adding the following details:
+
+- Project purpose and target users.
