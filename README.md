@@ -46,3 +46,11 @@ Common files to look for include:
 - `pyproject.toml`
 - `Cargo.toml`
 - `go.mod`
+
+If the project includes a `package.json`, install dependencies with the package manager used by the repository.
+
+For npm:
+
+```bash
+npm install
+```
