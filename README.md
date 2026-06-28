@@ -117,3 +117,11 @@ As the project evolves, consider adding the following details:
 ## Troubleshooting
 
 If setup fails, first verify that the correct package manager and runtime are installed.
+
+If dependencies fail to install, remove the local dependency directory and reinstall using the repository鈥檚 lockfile.
+
+If a command is missing, confirm that it is listed in the project configuration before running it.
+
+If the application requires configuration files, document the expected file names and values in this README.
+
+## Contributing
