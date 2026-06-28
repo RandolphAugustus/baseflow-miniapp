@@ -90,3 +90,10 @@ npm run test
 ```
 
 Run only the commands that are actually defined in this project.
+
+## Development Notes
+
+- Keep changes focused and easy to review.
+- Update this README when setup steps, scripts, or project behavior become clearer.
+- Document any required environment variables in a dedicated section before they are needed.
+- Avoid committing local build output, dependency folders, or machine-specific files.
