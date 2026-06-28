@@ -132,3 +132,10 @@ When contributing to this project:
 2. Make focused updates.
 3. Test the changes when applicable.
 4. Update documentation if behavior changes.
+5. Submit the changes for review.
+
+## License
+
+No license information is documented in the original README.
+
+Add a license file if the project needs explicit usage, distribution, or contribution terms.
