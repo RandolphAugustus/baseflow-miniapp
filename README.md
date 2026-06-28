@@ -125,3 +125,10 @@ If a command is missing, confirm that it is listed in the project configuration 
 If the application requires configuration files, document the expected file names and values in this README.
 
 ## Contributing
+
+When contributing to this project:
+
+1. Create a new branch for your changes.
+2. Make focused updates.
+3. Test the changes when applicable.
+4. Update documentation if behavior changes.
