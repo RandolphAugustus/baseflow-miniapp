@@ -25,3 +25,11 @@ Clone the repository with:
 ```bash
 git clone https://github.com/RandolphAugustus/baseflow-miniapp.git
 ```
+
+Then move into the project directory:
+
+```bash
+cd baseflow-miniapp
+```
+
+## Setup
