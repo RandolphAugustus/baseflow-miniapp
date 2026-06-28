@@ -33,3 +33,10 @@ cd baseflow-miniapp
 ```
 
 ## Setup
+
+After cloning the repository, inspect the project files to determine the required runtime and package manager.
+
+Common files to look for include:
+
+- `package.json`
+- `pnpm-lock.yaml`
