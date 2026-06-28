@@ -11,3 +11,11 @@ This README provides a clean starting point for working with the project locally
 Because the original project documentation is minimal, the sections below focus on safe, practical setup and usage steps that do not assume a specific framework or runtime.
 
 ## Features
+
+- A dedicated repository for the `baseflow-miniapp` project.
+- A simple structure that can be expanded as the project grows.
+- Local development workflow guidance.
+- Clear setup instructions for cloning and exploring the project.
+- Space for future documentation about scripts, configuration, and deployment.
+
+## Repository
