@@ -40,3 +40,9 @@ Common files to look for include:
 
 - `package.json`
 - `pnpm-lock.yaml`
+- `yarn.lock`
+- `package-lock.json`
+- `requirements.txt`
+- `pyproject.toml`
+- `Cargo.toml`
+- `go.mod`
