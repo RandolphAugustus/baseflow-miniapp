@@ -60,3 +60,11 @@ For pnpm:
 ```bash
 pnpm install
 ```
+
+For Yarn:
+
+```bash
+yarn install
+```
+
+Use the lockfile already present in the repository when choosing a package manager.
