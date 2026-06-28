@@ -68,3 +68,11 @@ yarn install
 ```
 
 Use the lockfile already present in the repository when choosing a package manager.
+
+## Usage
+
+Check the project manifest or script configuration for available commands.
+
+For JavaScript or TypeScript projects, commands are often listed under the `scripts` section of `package.json`.
+
+Common examples may include:
