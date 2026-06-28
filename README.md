@@ -104,3 +104,10 @@ Run only the commands that are actually defined in this project.
 As the project evolves, consider adding the following details:
 
 - Project purpose and target users.
+- Main application features.
+- Required runtime versions.
+- Installation requirements.
+- Available development commands.
+- Build and test instructions.
+- Configuration details.
+- Deployment process.
