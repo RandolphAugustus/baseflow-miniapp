@@ -19,3 +19,9 @@ Because the original project documentation is minimal, the sections below focus 
 - Space for future documentation about scripts, configuration, and deployment.
 
 ## Repository
+
+Clone the repository with:
+
+```bash
+git clone https://github.com/RandolphAugustus/baseflow-miniapp.git
+```
